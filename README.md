@@ -5,3 +5,6 @@ This is a sample project which I created in purpose of learning how to create ap
 
 ##Feature
 - Integrate with Maven using `maven-android-plugin` https://code.google.com/p/maven-android-plugin/
+
+##Running and Deploy
+`mvn clean install android:clean android:redeploy android:run`
